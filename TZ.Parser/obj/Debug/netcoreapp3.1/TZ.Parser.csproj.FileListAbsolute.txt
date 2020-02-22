@@ -1,0 +1,14 @@
+D:\Blackfin\Startup\TimeZoneDataInserter\TZ-Parser\TZ.Parser\bin\Debug\netcoreapp3.1\TZ.Parser.exe
+D:\Blackfin\Startup\TimeZoneDataInserter\TZ-Parser\TZ.Parser\bin\Debug\netcoreapp3.1\timezones.txt
+D:\Blackfin\Startup\TimeZoneDataInserter\TZ-Parser\TZ.Parser\bin\Debug\netcoreapp3.1\TZ.Parser.deps.json
+D:\Blackfin\Startup\TimeZoneDataInserter\TZ-Parser\TZ.Parser\bin\Debug\netcoreapp3.1\TZ.Parser.runtimeconfig.json
+D:\Blackfin\Startup\TimeZoneDataInserter\TZ-Parser\TZ.Parser\bin\Debug\netcoreapp3.1\TZ.Parser.runtimeconfig.dev.json
+D:\Blackfin\Startup\TimeZoneDataInserter\TZ-Parser\TZ.Parser\bin\Debug\netcoreapp3.1\TZ.Parser.dll
+D:\Blackfin\Startup\TimeZoneDataInserter\TZ-Parser\TZ.Parser\bin\Debug\netcoreapp3.1\TZ.Parser.pdb
+D:\Blackfin\Startup\TimeZoneDataInserter\TZ-Parser\TZ.Parser\obj\Debug\netcoreapp3.1\TZ.Parser.csprojAssemblyReference.cache
+D:\Blackfin\Startup\TimeZoneDataInserter\TZ-Parser\TZ.Parser\obj\Debug\netcoreapp3.1\TZ.Parser.csproj.CoreCompileInputs.cache
+D:\Blackfin\Startup\TimeZoneDataInserter\TZ-Parser\TZ.Parser\obj\Debug\netcoreapp3.1\TZ.Parser.AssemblyInfoInputs.cache
+D:\Blackfin\Startup\TimeZoneDataInserter\TZ-Parser\TZ.Parser\obj\Debug\netcoreapp3.1\TZ.Parser.AssemblyInfo.cs
+D:\Blackfin\Startup\TimeZoneDataInserter\TZ-Parser\TZ.Parser\obj\Debug\netcoreapp3.1\TZ.Parser.dll
+D:\Blackfin\Startup\TimeZoneDataInserter\TZ-Parser\TZ.Parser\obj\Debug\netcoreapp3.1\TZ.Parser.pdb
+D:\Blackfin\Startup\TimeZoneDataInserter\TZ-Parser\TZ.Parser\obj\Debug\netcoreapp3.1\TZ.Parser.genruntimeconfig.cache
